@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "10380559452",
+    "firebase_url": "https://car-lelo-a77ae.firebaseio.com",
+    "project_id": "car-lelo-a77ae",
+    "storage_bucket": "car-lelo-a77ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10380559452:android:abc6d01b4aa12153fe1299",
+        "android_client_info": {
+          "package_name": "com.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10380559452-sr2ojudmusj9qbrkdir7p2o60bgflh89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasetest",
+            "certificate_hash": "9fb4333d0791eb3b17fd40a0825943cf6680db30"
+          }
+        },
+        {
+          "client_id": "10380559452-spg0n47gf2mgsn9p0s586por83hcg2sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqaY1CqLwfrfVE-H23QVZn2DxjM-UNV5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10380559452-spg0n47gf2mgsn9p0s586por83hcg2sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
